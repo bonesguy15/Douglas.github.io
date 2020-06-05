@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Squada One', cursive;
+  background: rgb(0, 38, 59);
+  background: linear-gradient(180deg, rgba(0, 38, 59, 1) 0%, rgba(27, 38, 44, 1) 35%);
+  color: #ececec;
+}
+
+h1 {
+  color: #dae1e7;
+  margin: 50px auto 10px auto;
+  line-height: 2;
+  font-family: 'Merienda One', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #f8b24f;
+  font-size: 2.5rem;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: bolder;
+}
+
+h3 {
+  color: #f8b24f;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: normal;
+}
+
+.top-container {
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  font-size: 22px;
+}
+
+.bottom-container {
+  font-size: 22px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.games-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.pv{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.objetivos{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.email {
+  color: #11999E;
+}
+
+.instagram {
+  color: #11999E;
+}
+
+.profile-pic {
+  margin-top: 30px;
+}
+.description{
+  font-weight: normal;
+}
